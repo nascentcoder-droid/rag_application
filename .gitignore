@@ -1,0 +1,25 @@
+﻿# Python virtual environment
+venv/
+ENV/
+env/
+
+# Environment variables
+.env
+
+# Vector database storage
+chroma_db/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
